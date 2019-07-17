@@ -1,0 +1,3 @@
+/home/jorge/Documents/Grupo_Visão/Code/Filter_image/CMakeFiles/edit_cache.dir
+/home/jorge/Documents/Grupo_Visão/Code/Filter_image/CMakeFiles/rebuild_cache.dir
+/home/jorge/Documents/Grupo_Visão/Code/Filter_image/CMakeFiles/Executable.dir
